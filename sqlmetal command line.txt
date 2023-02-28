@@ -1,0 +1,1 @@
+D:\Program (x86)\Microsoft Visual Studio 14.0>SqlMetal /server:DESKTOP-JOB29A9 /database:"COL2019" /code:G:\COL2019.cs
